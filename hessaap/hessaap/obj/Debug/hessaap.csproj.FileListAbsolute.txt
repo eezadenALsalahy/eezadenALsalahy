@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\hessaap\hessaap\bin\Debug\hessaap.exe.config
+C:\Users\DELL\source\repos\hessaap\hessaap\bin\Debug\hessaap.exe
+C:\Users\DELL\source\repos\hessaap\hessaap\bin\Debug\hessaap.pdb
+C:\Users\DELL\source\repos\hessaap\hessaap\obj\Debug\hessaap.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\hessaap\hessaap\obj\Debug\hessaap.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\hessaap\hessaap\obj\Debug\hessaap.Form1.resources
+C:\Users\DELL\source\repos\hessaap\hessaap\obj\Debug\hessaap.Properties.Resources.resources
+C:\Users\DELL\source\repos\hessaap\hessaap\obj\Debug\hessaap.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\hessaap\hessaap\obj\Debug\hessaap.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\hessaap\hessaap\obj\Debug\hessaap.exe
+C:\Users\DELL\source\repos\hessaap\hessaap\obj\Debug\hessaap.pdb
